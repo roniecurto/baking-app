@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Baking_App</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="item_detail_ingredients_title">Ingredients</string>
+    <string name="item_detail_steps_title">Steps</string>
+    <string name="step_video_icon_content_description">Video Media Icon</string>
+    <string name="btn_previous">Previous</string>
+    <string name="btn_next">Next</string>
+    <string name="appwidget_text">Baking App</string>
+    <string name="add_widget">Add widget</string>
+    <string name="no_recipe_selected">No recipe selected</string>
+</resources>
